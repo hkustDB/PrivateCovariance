@@ -1,5 +1,5 @@
 # Differentially Private Covariance Revisited
-This repo contains the official code for the implementations of the algorithms and experiments in the paper "Differentially Private Covariance Revisited".
+This repo contains the official code for the implementations of the algorithms and experiments in our NeurIPS 2022 paper "Differentially Private Covariance Revisited". Paper is avaliable [here](https://arxiv.org/abs/2205.14324?context=cs).
 
 | Folder          | Description                                                                                                |
 | ----------------| ---------------------------------------------------------------------------------------------------------- |
